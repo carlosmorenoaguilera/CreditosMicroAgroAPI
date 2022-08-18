@@ -1,0 +1,9 @@
+﻿admin
+empleado
+empleado_solicitante
+empleado_autorizador
+
+
+
+
+Scaffold-DbContext "Server=(localdb)\\MSSQLLocalDB;Database=CreditosMicroAgro;Trusted_Connection=True;"  Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
